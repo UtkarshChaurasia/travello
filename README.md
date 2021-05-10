@@ -23,14 +23,16 @@ A travel planner website UI integrated with PostgreSQL. User can register and si
 
 ## :iphone: Screenshots
 
-|                                      |                                      |
-| ------------------------------------ | ------------------------------------ |
-| <img src="images/11.jpg"  width="300"/> | <img src="images/2.jpg"  width="300"/> |
-| <img src="images/6.jpg" width="300"/>  | <img src="images/5.jpg" width="300"/>  |
-| <img src="images/3.jpg" width="300"/>  |  <img src="images/8.jpg" width="300"/>  |
-| <img src="images/4.jpg" width="300"/>  |  <img src="images/1.jpg" width="300"/>  |
-| <img src="images/9.jpg" width="300"/>  |  <img src="images/10.jpg" width="300"/>  |
 
+
+<img src="images/1.png"/>
+<img src="images/2.png"/>
+<img src="images/3.png"/>
+<img src="images/4.png"/>
+<img src="images/5.png"/>
+<img src="images/6.png"/>
+<img src="images/7.png"/>
+<img src="images/8.png"/>
 ---
 
 ## :man: Project Created & Maintained By
