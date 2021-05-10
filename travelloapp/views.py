@@ -8,3 +8,7 @@ def index(request):
     
 
     return render(request, 'index.html',{'dests': dests})
+
+
+def contact(request):
+    return render(request, 'contact.html')
